@@ -4,8 +4,9 @@ A full-stack, multiplatform, User ID-based movie recommendation system, powered 
 
 ![example](./docs/image.png)
 
+___
 
-### Building
+## Building
 Ensure you have the prerequisite packages:
 ```sh
 cd ./frontend
@@ -34,7 +35,7 @@ export FLASK_ENV=development
 flask run
 ```
 
-### Running
+## Running
 To run the Flutter app, you could use any of the existing running configurations (*in VS Code or IntelliJ files*), or, via CLI:
 ```sh
 cd ./frontend
